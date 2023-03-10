@@ -4,8 +4,10 @@
 
 ### University Registration Number: dpsd19103
 <hr>
+
 ### GitHub Personal Profile: [Stathenia/dpsd19103](https://github.com/Stathenia)
 <hr>
+
 ### Digital-Storytelling-Individual-Assignment: [Digital-Storytelling-Individual-Assignment](https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment)
 <hr>
 
