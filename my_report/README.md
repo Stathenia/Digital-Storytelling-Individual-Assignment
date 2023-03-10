@@ -1,7 +1,7 @@
 # Lesson: Digital Storytelling
 
 ### First and Last Name: Efsathia Paraskevopoulou 
-<hr>
+
 ### University Registration Number: dpsd19103
 <hr>
 ### GitHub Personal Profile: [Stathenia/dpsd19103](https://github.com/Stathenia)
