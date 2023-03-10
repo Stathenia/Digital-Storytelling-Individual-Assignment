@@ -10,7 +10,7 @@
 ### GitHub Personal Profile: [Stathenia/dpsd19103](https://github.com/Stathenia)
 <hr>
 
-### Digital-Storytelling-Individual-Assignment: [εδώ](https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment)
+### Digital-Storytelling-Individual-Assignment: [link](https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment)
 <hr>
 
 # Introduction
