@@ -1,4 +1,5 @@
 # Lesson: Digital Storytelling
+<hr>
 
 ### First and Last Name: Efsathia Paraskevopoulou 
 
@@ -12,10 +13,11 @@
 <hr>
 
 # Introduction
-
+<hr>
 
 
 # Summary
+<hr>
 
 
 # 1st Deliverable
