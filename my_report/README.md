@@ -2,8 +2,8 @@
 
 ### First and Last Name: Efsathia Paraskevopoulou 
 ### University Registration Number: dpsd19103
-### GitHub Personal Profile: [Stathenia/dpsd19103] (https://github.com/Stathenia)
-### Digital-Storytelling-Individual-Assignment:  https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment
+### GitHub Personal Profile: [Stathenia/dpsd19103](https://github.com/Stathenia)
+### Digital-Storytelling-Individual-Assignment:  [Digital-Storytelling-Individual-Assignment](https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment)
 
 # Introduction
 
