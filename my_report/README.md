@@ -26,5 +26,4 @@
 
 
 # Sources
-<li>  [Stathenia/dpsd19103] () </li>
- [Stathenia/dpsd19103] ([https://github.com/Stathenia](https://learn.unity.com/course/real-time-animated-storytelling?tab=overview&uv=2019.4))
+<li> (https://learn.unity.com/course/real-time-animated-storytelling?tab=overview&uv=2019.4) </li>
