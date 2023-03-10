@@ -3,7 +3,7 @@
 ### First and Last Name: Efsathia Paraskevopoulou 
 ### University Registration Number: dpsd19103
 ### GitHub Personal Profile: [Stathenia/dpsd19103](https://github.com/Stathenia)
-### Digital-Storytelling-Individual-Assignment: xxx https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment
+### Digital-Storytelling-Individual-Assignment:  https://github.com/Stathenia/Digital-Storytelling-Individual-Assignment
 
 # Introduction
 
@@ -26,4 +26,6 @@
 
 
 # Sources
-<ol>https://learn.unity.com/course/real-time-animated-storytelling?tab=overview&uv=2019.4</ol>
+<li>
+<ul>https://learn.unity.com/course/real-time-animated-storytelling?tab=overview&uv=2019.4</ul>
+</li>
