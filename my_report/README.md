@@ -1,7 +1,7 @@
 # Lesson: Digital Storytelling
 
-### First and Last Name: xxx
-### University Registration Number: dpsdxxxxx
+### First and Last Name: Efsathia Paraskevopoulou 
+### University Registration Number: dpsd19103
 ### GitHub Personal Profile: xxx
 ### Digital-Storytelling-Individual-Assignment: xxx
 
@@ -13,6 +13,7 @@
 
 
 # 1st Deliverable
+</p> Σε αυτό το παραδοτέο </p>
 
 
 # 2nd Deliverable
